@@ -6,7 +6,7 @@ date: 2016-03-21
 ---
     
 
-##<center>Biodata</center>
+<center>Biodata</center>
 
 
 <p><h3>Nama: Edi kurniawan wibowo </h3>
