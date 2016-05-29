@@ -5,7 +5,7 @@ description:        "sistem informasi."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/IMG_20160519_192445.jpg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/IMG_20160519_192445.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://edikurniawanwibowo.github.io
