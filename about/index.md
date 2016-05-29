@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Edi kurniawan wibowo
-tags: [sistem informasi]
+title: about
+tags: about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
